@@ -3,9 +3,12 @@
 
 Developing DIO's First Class Number 3 App, here is the result:
 
-![image](https://user-images.githubusercontent.com/86370873/169661121-9219d219-1d74-40dc-8ba6-9c696d9d0ca0.png)
-![image](https://user-images.githubusercontent.com/86370873/169661126-a431b954-abfe-48e7-8321-5961162b6689.png)
-![image](https://user-images.githubusercontent.com/86370873/169661133-b17bedd5-17c7-4284-b1cf-04814f549a2a.png)
+![image](https://user-images.githubusercontent.com/86370873/169661172-49ff674c-ddab-4027-90cd-585e70657802.png)
+![image](https://user-images.githubusercontent.com/86370873/169661189-5e8828b5-9b7b-487b-a5c4-14b8765c73d9.png)
+![image](https://user-images.githubusercontent.com/86370873/169661194-3a178e84-d5c2-4855-92ef-8b672f7c0eb2.png)
+
+
+
 
 
 
